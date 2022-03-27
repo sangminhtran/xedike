@@ -21,6 +21,6 @@
     "validator": "^11.1.0"
   },
   "devDependencies": {
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   }
 }
